@@ -1,0 +1,27 @@
+{
+  "name": "e-butik12",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alenmalko/E-butik12.git"
+  },
+  "author": "alen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alenmalko/E-butik12/issues"
+  },
+  "homepage": "https://github.com/alenmalko/E-butik12#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "helmet": "^7.0.0",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.2.0"
+
+  }
+}
